@@ -1,3 +1,3 @@
 # dawn_to_dream
 
-I'd like to calculate beautiful dusk skies.
+I'd like to calculate beautiful skies at sunset.
